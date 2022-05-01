@@ -1,0 +1,11 @@
+{
+  "trade_time_ms": 1651312596871,
+  "timestamp": "2022-04-30T09:56:36.000Z",
+  "symbol": "BTCUSD",
+  "side": "Sell",
+  "size": 29,
+  "price": 38616.5,
+  "tick_direction": "ZeroMinusTick",
+  "trade_id": "c0767341-6d50-5d30-b102-5c63c43669d9",
+  "cross_seq": 12835448167
+}
